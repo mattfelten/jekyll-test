@@ -1,0 +1,3 @@
+@import '../../src/style';
+
+.test1 { @include color(blue); }
